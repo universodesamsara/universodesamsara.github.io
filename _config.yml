@@ -1,0 +1,23 @@
+# _config.yml
+title: Universo de Samsara
+description: Jornadas de transformação através dos ciclos da vida
+baseurl: ""
+url: "https://universodesamsara.github.io"
+theme: minima
+
+# Informações do site
+author:
+  name: Universo de Samsara
+  email: universodesamsara@gmail.com
+
+# Configurações
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Personalização
+custom:
+  mission: "Explorar ciclos de transformação pessoal"
+  tags: [história, tecnologia, saúde mental, autoconhecimento]
